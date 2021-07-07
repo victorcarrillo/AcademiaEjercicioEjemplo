@@ -1,0 +1,14 @@
+2021-07-06 10:18:19 INFO  Log:20 - Starting Testing ...Test Suite is starting
+2021-07-06 10:18:19 INFO  Log:30 - Setting up test execution
+2021-07-06 10:18:19 INFO  Log:30 - Opening Browser
+2021-07-06 10:18:22 INFO  Log:30 - Opening https://www.amazon.com.mx/
+2021-07-06 10:18:24 INFO  Log:30 - Validating Amazon Logo is present with : Amazon.com.mx
+2021-07-06 10:18:24 INFO  Log:30 - Correct Amazon Logo was found 
+2021-07-06 10:18:24 INFO  Log:30 - Searching for : audifonos bose quietcomfort 35 ii
+2021-07-06 10:18:33 INFO  Log:30 - Search message shows :audifonos bose quietcomfort 35 ii
+2021-07-06 10:18:34 INFO  Log:30 - Filter by brand Bose
+2021-07-06 10:19:42 INFO  Log:30 - Setting Min Price Filter
+2021-07-06 10:19:44 INFO  Log:30 - Setting Max Price Filter
+2021-07-06 10:19:46 INFO  Log:30 - Click on setting Price Filter
+2021-07-06 10:19:50 INFO  Log:30 - Click on Element 
+2021-07-06 10:23:12 INFO  Log:25 - Ending Testing ...Ending Execution

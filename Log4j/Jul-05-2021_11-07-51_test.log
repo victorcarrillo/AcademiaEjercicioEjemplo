@@ -1,0 +1,45 @@
+2021-07-05 11:07:51 INFO  Log:20 - Starting Testing ...Test Suite is starting
+2021-07-05 11:07:51 INFO  Log:30 - Setting up test execution
+2021-07-05 11:07:51 INFO  Log:30 - Opening Browser
+2021-07-05 11:07:54 INFO  Log:30 - Opening https://www.amazon.com.mx/
+2021-07-05 11:07:55 INFO  Log:30 - Validating Amazon Logo is present with : Amazon.com.mx
+2021-07-05 11:07:55 INFO  Log:30 - Correct Amazon Logo was found 
+2021-07-05 11:07:56 INFO  Log:30 - Searching for : airpods pro
+2021-07-05 11:07:57 INFO  Log:30 - Search message shows :airpods pro
+2021-07-05 11:07:57 INFO  Log:30 - Filter by 4 stars of more
+2021-07-05 11:07:57 INFO  Log:30 - Filter by brand Apple
+2021-07-05 11:07:59 INFO  Log:30 - Filter by Seller 
+2021-07-05 11:08:00 INFO  Log:30 - Gathering all results for search 
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple AirPods Pro
+2021-07-05 11:08:00 INFO  Log:30 - Product Apple AirPods Pro is a valid Product
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple AirPods MAX - Rosa
+2021-07-05 11:08:00 INFO  Log:30 - Product Apple AirPods MAX - Rosa is a valid Product
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple AirPods con Estuche de Carga
+2021-07-05 11:08:00 INFO  Log:30 - Product Apple AirPods con Estuche de Carga is a valid Product
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple AirPods con Estuche de Carga inalámbrica
+2021-07-05 11:08:00 INFO  Log:30 - Product Apple AirPods con Estuche de Carga inalámbrica is a valid Product
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Cargador MagSafe
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Cargador MagSafe does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Pencil (Segunda generación)
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Pencil (Segunda generación) does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Adaptador de Lightning a Jack de 3.5 mm para audífonos
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Adaptador de Lightning a Jack de 3.5 mm para audífonos does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Nuevo Watch SE GPS • Caja de Aluminio Color Plata de 40 mm • Correa Deportiva Blanca - Estándar
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Nuevo Watch SE GPS • Caja de Aluminio Color Plata de 40 mm • Correa Deportiva Blanca - Estándar does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple EarPods con Conector Lightning
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple EarPods con Conector Lightning does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Funda de silicón para el iPhone 11 Pro - (Product) Red
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Funda de silicón para el iPhone 11 Pro - (Product) Red does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Cargador Doble MagSafe
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Cargador Doble MagSafe does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:30 - Name of the product : Apple Cable de Carga USB-C (2 m)
+2021-07-05 11:08:00 WARN  Log:35 - Product Apple Cable de Carga USB-C (2 m) does not correspond to search !!
+2021-07-05 11:08:00 INFO  Log:30 - ------------------------------
+2021-07-05 11:08:00 INFO  Log:25 - Ending Testing ...Ending Execution
